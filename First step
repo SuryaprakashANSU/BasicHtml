@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head><Title>RESUME</Title></head>
+    <h1><Center><b>RESUME SURYAPRAKASH</b></Center></h1><br>
+<p>Address:40,Jamindhar padasalai street<br>
+    Vadagarai,Periyakulam,<br>Theni-625601
+</p><hr>
+<h1><Center>SUMMARY</Center></h1><hr>
+<p>Job seeking student.Electrical and Electronics Engineering.
+    Intrested in IT field and Embedded System.If i had job, i will rise to
+my knowlege and passion.</p><hr>
+<h1><Center>SKILLS</Center></h1><hr>
+    <ol><b>PYTHON</ol>
+    <ol>HTML</ol></html></b><hr>
+<h1><Center>PROJECTS</Center></h1><hr>
+    <p>Project name: Plant moisture monitoring system<p>
+    <p>Project name: Auto tunning amplifier with IoT<p><hr>
+        <h1><Center>EDUCATION</Center></h1> <hr>
+        <table>
+            <thead style="text-align: center;">
+                <th>Degree/Course</th>
+                    <th>Institude/college</th>
+                        <th>University board</th>
+                            <th>Percentage</th>
+                            <th>Year of passing</th>
+            </thead>
+<tbody>            
+    <td>10th</td>
+     <td>V.M.Boys higher secondary school</td>
+    <td>Tamil nadu State board</td>
+            <td>89.2</td>
+            <td>2016</td>
+</tbody>
+<td>12th</td>
+<td>V.M.Boys higher secondary school</td>
+<td>Tamil nadu State board</td>
+            <td>67</td>
+            <td>2018</td>
+ <tfoot>
+          <tr><td>Bachelor of Engineering</td>
+            <td>University college of engineering</td>
+            <td>Anna University</td>
+                        <td>73</td>
+                        <td>2022</td></tr>
+        </tfoot>      
+</table><hr>
+<h1><Center>DECLARATION</Center></h1><hr>
+I hereby declare that all the above information is true to best of my knowledge.
+</html>
